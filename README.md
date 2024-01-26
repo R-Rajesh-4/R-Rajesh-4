@@ -1,4 +1,4 @@
-# [Your Name]'s GitHub Portfolio
+# Rajesh's GitHub Portfolio
 
 Welcome to my GitHub portfolio! I'm R RAJESH, specializing in Data Science and Techniques. Here you'll find a collection of my projects, technical skills, and contributions to the open-source community.
 
